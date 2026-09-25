@@ -116,7 +116,7 @@ Added note about the raw data living outside the repo to the report.md
 
 ## Part 3
 
-
+*Q3* I instead embedded the charts/trips_per_dock_by_station_2025.png. A relative path matters for someone who clones my repo because they wouldn't have access to the personal paths on my laptop.
 
 
 ## Part 4

@@ -14,7 +14,7 @@
 
 \## Bottom Line
 
-\*\*We are excited to announce that the Day Pass brought casual riders back! The dock expansion and new station fix the campus crunch. One out of two idle stations from 2025 seem to still be sitting idle.\*\*
+\*\*We are excited to announce that the Day Pass brought casual riders back! The dock expansion and new station fix the campus crunch. One out of idle stations from 2025 has seen major growth.\*\*
 
 
 
