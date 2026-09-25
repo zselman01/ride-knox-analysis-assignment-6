@@ -46,3 +46,64 @@ o	    HEAD is now at 017c4da Updated WORKLOG.md (output)
 
 
 ## Part 1
+*Issue number and URL*
+Issue #1
+https://github.com/zselman01/ride-knox-analysis-assignment-6/issues/1#issue-5585519029
+
+*Descriptions of two additional issues (told to paste output of both bodies)*
+- Issue #2: The missing end station ids
+What / where
+There are several trips missing end station ids from bikes that seem to have never been docked. Do we want to remove these rows or flag them?
+
+Expected vs. actual (*Also Q1*)
+Expected: 0 rows where end_station_id == NA/null.
+Actual: 3,726 rows.
+
+Why it matters
+We must decide whether to get rid of these rows or flag them because they exclude necessary information that we need.
+
+
+- Issue #3: Stray whitespace in start station name
+What / where
+The stray whitespaces in start station name affect the unique types of station names.
+
+Expected vs. actual
+Expected: 24 stations
+Actual: 121 stations
+
+Why it matters
+They inflate the unique number of stations making it seem like duplicates of the same name are distinct stations.
+
+
+
+## Part 2
+*git branch output*
+* chore/tidy-report
+  main
+
+
+## Part 4
+
+
+
+
+## Part 5
+
+
+
+## Part 6
+
+
+
+
+
+## Part 7
+
+
+
+## Part 8
+
+
+
+
+## Reflection and AI Disclosure
