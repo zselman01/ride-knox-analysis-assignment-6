@@ -81,9 +81,45 @@ They inflate the unique number of stations making it seem like duplicates of the
 * chore/tidy-report
   main
 
+*Commit message*
+[chore/tidy-report 07f8c96] Added note about the raw data living outside the repo to the report.md; Cleaned up some other files
+ 11 files changed, 397 insertions(+), 446 deletions(-)
+ delete mode 100644 charts/S25_comparison_2026.png
+ delete mode 100644 charts/arrivals_per_dock_2025.png
+ delete mode 100644 charts/arrivals_per_dock_2026.png
+ delete mode 100644 charts/median_duration_per_rider_type_2026.png
+ delete mode 100644 charts/share_by_rider_type_2025.png
+ delete mode 100644 charts/share_by_rider_type_2026.png
+ delete mode 100644 charts/trips_per_hour_per_rider_type_2026.png
+PS C:\Users\selma\Data Science Toolkit\ride-knox-analysis-assignm-6\ride-knox-analysis> git push secondary chore/tidy-report
+Enumerating objects: 13, done.
+Counting objects: 100% (13/13), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (9/9), 213.00 KiB | 6.45 MiB/s, done.
+Total 9 (delta 4), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (4/4), completed with 3 local objects.
+remote: 
+remote: Create a pull request for 'chore/tidy-report' on GitHub by visiting:
+remote:      https://github.com/zselman01/ride-knox-analysis-assignment-6/pull/new/chore/tidy-report
+remote: 
+To https://github.com/zselman01/ride-knox-analysis-assignment-6
+ * [new branch]      chore/tidy-report -> chore/tidy-report
+
+*PR description*
+Added note about the raw data living outside the repo to the report.md
+
+*Self-review line comment*
+![alt text](image.png)
+
+*Q2* At the moment my PR was open but not yet merged, main was untouched and in the same state as of my last merge to it.
+
+## Part 3
+
+
+
 
 ## Part 4
-
 
 
 
@@ -91,9 +127,9 @@ They inflate the unique number of stations making it seem like duplicates of the
 
 
 
+
+
 ## Part 6
-
-
 
 
 
