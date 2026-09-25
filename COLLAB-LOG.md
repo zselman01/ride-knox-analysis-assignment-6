@@ -153,7 +153,10 @@ c387e78 Update COLLAB-LOG.md for Part 2
 
 ## Part 5
 
-
+*_config.yml*
+theme: jekyll-theme-cayman
+title: 2025 Ride Knox Ridership Analysis
+description: Lost riders and capacity issues
 
 
 
