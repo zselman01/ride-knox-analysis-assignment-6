@@ -42,7 +42,7 @@ We have schemas of our data below, but request `trips_2025.csv` and `stations.xl
 | year_installed        | int      | year station was installed            |
 
 ### Tools/How to Run: Python, pandas, matplotlib
-Install requirements.txt, open analysis.ipynb, Restart & Run All
+Install [requirements.txt](requirements.txt), open analysis.ipynb, Restart & Run All
 
 ### Limitations
 The decline in casual riders could be a consistent pattern, but we are unable to determine this without having other years to compare with 2025. We also flagged several trips that have no end station recorded, and those trips have been excluding from the analysis in answering these questions. This eliminates some data that may have led us to more genuine and accurate results. Additionally, the decision to exclude rides shorter than two minutes may have dropped 123 valid data points if those were genuine trips where riders took the bikes a very short distance.
