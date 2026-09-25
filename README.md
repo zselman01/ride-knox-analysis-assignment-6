@@ -4,6 +4,11 @@
 ### Overview
 *Which types of riders drove the 2025 decline in ridership? Where is dock pressure the greatest?*
 
+### Key finding
+Of the 10 stations with the most pressure (according to trips per dock), there are four stations in the **UT Campus neighborhood** that are most pressured. However, there is near-idleness observed for both Bearden and Sequoyah Hills stations.
+
+![Station Trips per dock](charts/trips_per_dock_by_station_2025.png)
+
 ### Data: 247,967 cleaned trips across 24 stations
 Raw files are **not** in this repo (~22 MB, and we believe you should never edit raw data).
 We have schemas of our data below, but request `trips_2025.csv` and `stations.xlsx` from the Ride Knox data team.
@@ -38,10 +43,6 @@ We have schemas of our data below, but request `trips_2025.csv` and `stations.xl
 
 ### Tools/How to Run: Python, pandas, matplotlib
 Install requirements.txt, open analysis.ipynb, Restart & Run All
-
-### Key finding
-Of the 10 stations with the most pressure (according to trips per dock), there are four stations in the **UT Campus neighborhood** that are most pressured. However, there is near-idleness observed for both Bearden and Sequoyah Hills stations.
-![Station Trips per dock](charts/trips_per_dock_by_station_2025.png)
 
 ### Limitations
 The decline in casual riders could be a consistent pattern, but we are unable to determine this without having other years to compare with 2025. We also flagged several trips that have no end station recorded, and those trips have been excluding from the analysis in answering these questions. This eliminates some data that may have led us to more genuine and accurate results. Additionally, the decision to exclude rides shorter than two minutes may have dropped 123 valid data points if those were genuine trips where riders took the bikes a very short distance.
