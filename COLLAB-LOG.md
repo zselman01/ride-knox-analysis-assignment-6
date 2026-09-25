@@ -178,6 +178,12 @@ https://github.com/zselman01/ride-knox-analysis-assignment-6/pull/9/changes#r410
 
 ## Part 7
 
+*README URL*
+https://github.com/zselman01
+
+![Pinned Repo](image-2.png)
+
+*PR Link for updated README*
 
 
 ## Part 8
