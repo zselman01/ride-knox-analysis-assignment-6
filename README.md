@@ -11,6 +11,7 @@ We have schemas of our data below, but request `trips_2025.csv` and `stations.xl
 *Data schemas*
 
 `trips_2025.csv` — one row per trip:
+
 | column                | type     | notes                                 |
 | ----------------------| -------- | ------------------------------------- |
 | trip_id               | str      | unique, T-series                      |
@@ -24,6 +25,7 @@ We have schemas of our data below, but request `trips_2025.csv` and `stations.xl
 
 
 `stations.xlsx` — one row per station:
+
 | column                | type     | notes                                 |
 | ----------------------| -------- | ------------------------------------- |
 | station_id            | str      | unique, T-series                      |
@@ -46,14 +48,25 @@ The decline in casual riders could be a consistent pattern, but we are unable to
 
 ### Repo structure
 ride-knox-analysis/
+
 ├── .git/                  # Internal Git history tracking (hidden)
+
 ├── charts/                # Graphs created to visually show results from data analysis
+
 ├── scratch                # Temporary files (ignored)
+
 ├── .gitignore             # Tells Git which files/folders to completely ignore
+
 ├── analysis.ipynb         # All code for analyses
+
 ├── COLLAB-LOG.md          # History from current assignment/project
+
 ├── image.png              # Screenshot from Part 2
+
 ├── README.md              # The front-page introduction and setup guide for this project
+
 ├── requirements.txt       # Dependencies/packages required to run the project
+
 ├── report.md              # Synthesis of main findings from 2025 analysis
+
 ├── WORKLOG.md             # History from previous assignment/project (Assignment 5)
