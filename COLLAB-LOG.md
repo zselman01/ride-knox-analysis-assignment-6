@@ -177,7 +177,10 @@ https://github.com/zselman01/ride-knox-analysis-assignment-6/pull/9/changes#r410
 *Q6:* Because the comment is attached to code, a pull request tends to sting less than the same feedback delivered verbally to a person in a meeting.
 
 ## Part 7
+*README URL*
+https://github.com/zselman01
 
+![Pinned Repo](image-2.png)
 
 
 ## Part 8
