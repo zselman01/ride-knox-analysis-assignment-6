@@ -109,6 +109,9 @@ To https://github.com/zselman01/ride-knox-analysis-assignment-6
 *PR description*
 Added note about the raw data living outside the repo to the report.md
 
+*Self-review line comment*
+![alt text](image.png)
+
 ## Part 4
 
 
