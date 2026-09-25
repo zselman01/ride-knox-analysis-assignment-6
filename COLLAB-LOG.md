@@ -110,7 +110,7 @@ To https://github.com/zselman01/ride-knox-analysis-assignment-6
 Added note about the raw data living outside the repo to the report.md
 
 *Self-review line comment*
-![alt text](image.png)
+![Line comment](image.png)
 
 *Q2* At the moment my PR was open but not yet merged, main was untouched and in the same state as of my last merge to it.
 
@@ -149,6 +149,8 @@ f1f0948 (secondary/docs/project-readme) Merge branch 'main' into docs/project-re
 c387e78 Update COLLAB-LOG.md for Part 2
 109026f Merge pull request #4 from zselman01/chore/tidy-report
 
+Confirmation: The README issue (#1) closed.
+
 *Q4:* One thing that the PR added to the experience that a bare local git merge did not are line diff comments, a description of the conflict, a way to manually and easily resolve the conflict on GitHub, and leave comments as the author or reviewer.
 
 ## Part 5
@@ -158,11 +160,21 @@ theme: jekyll-theme-cayman
 title: 2025 Ride Knox Ridership Analysis
 description: Lost riders and capacity issues
 
+*Enable Pages*
+https://zselman01.github.io/ride-knox-analysis-assignment-6/
 
+Confirmation: README renders as the home page and the chart loads on the live site
+
+![About Sidebar](image-1.png)
+
+*Q5:* I used the cayman theme, rather than the minimal theme from class. My embedded chart wasn't broken, but the most likely cause of a broken link could be if the path name for the image is incorrect or the proper coding to get the image itself to show up (instead of a link to it) in the code is incorrect. You can check by going back to the code and fixing any issues.
 
 ## Part 6
 
+*I did the alt options. PR URL below*
+https://github.com/zselman01/ride-knox-analysis-assignment-6/pull/9/changes#r4108328789
 
+*Q6:* Because the comment is attached to code, a pull request tends to sting less than the same feedback delivered verbally to a person in a meeting.
 
 ## Part 7
 
