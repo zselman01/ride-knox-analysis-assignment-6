@@ -188,9 +188,22 @@ http://github.com/zselman01/ride-knox-analysis-assignment-6/pull/11
 
 *Q7:* After completing this project, having a useful and usable README.md on the homepage and a working github.io link in the repo's "About" sidebar would make the hiring manage click into mine.
 
-## Part 8
+## Part 8: Challenge
 
+*requirements.txt contents*
+import pandas as pd
+import matplotlib.pyplot as plt
+git version 2.55.0.windows.5 (at least)
 
+*PR URL*
+https://github.com/zselman01/ride-knox-analysis-assignment-6/pull/14/changes
 
+Confirmation: Issue is closed
+
+*Q8:* The requirements.txt protects the reproducibility of our environment. The README provides easily readable documentation, but the requirements.txt file directly serves those who are interested in the coding aspect of the repository.
 
 ## Reflection and AI Disclosure
+
+*R1:*. I have had some exposire to using the pull requests so the peer review was definitely more nerve-wrecking. The fork made me nervous because I wasn't sure if GitHub would allow me to merge back into the original repository. It worked fine though!
+
+*R2:*. I used Google to clone my repository so I could start this assignment from where I left off in Assignment 5, define how to make a repo structure, how to fork my own repository (using GitHub Organizations) since we didn't work with a partner, and understand Q8. All final commits, PRs, reviews, and conclusions are my own.
