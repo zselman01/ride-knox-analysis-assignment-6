@@ -174,6 +174,7 @@ Confirmation: README renders as the home page and the chart loads on the live si
 *I did the alt options. PR URL below*
 https://github.com/zselman01/ride-knox-analysis-assignment-6/pull/9/changes#r4108328789
 
+*Q6:* Because the comment is attached to code, a pull request tends to sting less than the same feedback delivered verbally to a person in a meeting.
 
 ## Part 7
 
