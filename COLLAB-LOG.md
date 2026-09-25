@@ -121,7 +121,21 @@ Added note about the raw data living outside the repo to the report.md
 
 ## Part 4
 
+*Pull request error banner*
+This branch has conflicts that must be resolved
+Use the web editor or the command line to resolve conflicts before continuing.
 
+report.md
+
+*Resolve the conflict*
+<<<<<<< docs/project-readme
+\*\*The Day Pass brought casual riders back. The dock expansion and new station fix the campus crunch. One out of idle stations from 2025 has seen major growth.\*\*
+=======
+\*\*We are excited to announce that the Day Pass brought casual riders back! The dock expansion and new station fix the campus crunch. One out of two idle stations from 2025 seem to still be sitting idle.\*\*
+>>>>>>> main
+
+*Resolved sentence*
+We are excited to announce that the Day Pass brought casual riders back! The dock expansion and new station fix the campus crunch. One out of idle stations from 2025 has seen major growth.
 
 ## Part 5
 
