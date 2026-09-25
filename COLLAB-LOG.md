@@ -184,7 +184,9 @@ https://github.com/zselman01
 ![Pinned Repo](image-2.png)
 
 *PR Link for updated README*
+http://github.com/zselman01/ride-knox-analysis-assignment-6/pull/11
 
+*Q7:* After completing this project, having a useful and usable README.md on the homepage and a working github.io link in the repo's "About" sidebar would make the hiring manage click into mine.
 
 ## Part 8
 
