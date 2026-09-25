@@ -112,8 +112,14 @@ Added note about the raw data living outside the repo to the report.md
 *Self-review line comment*
 ![alt text](image.png)
 
-## Part 4
+*Q2* At the moment my PR was open but not yet merged, main was untouched and in the same state as of my last merge to it.
 
+## Part 3
+
+
+
+
+## Part 4
 
 
 
@@ -121,9 +127,9 @@ Added note about the raw data living outside the repo to the report.md
 
 
 
+
+
 ## Part 6
-
-
 
 
 
