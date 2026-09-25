@@ -121,7 +121,35 @@ Added note about the raw data living outside the repo to the report.md
 
 ## Part 4
 
+*Pull request error banner*
+This branch has conflicts that must be resolved
+Use the web editor or the command line to resolve conflicts before continuing.
 
+report.md
+
+*Resolve the conflict*
+<<<<<<< docs/project-readme
+\*\*The Day Pass brought casual riders back. The dock expansion and new station fix the campus crunch. One out of idle stations from 2025 has seen major growth.\*\*
+=======
+\*\*We are excited to announce that the Day Pass brought casual riders back! The dock expansion and new station fix the campus crunch. One out of two idle stations from 2025 seem to still be sitting idle.\*\*
+>>>>>>> main
+
+*Resolved sentence*
+We are excited to announce that the Day Pass brought casual riders back! The dock expansion and new station fix the campus crunch. One out of idle stations from 2025 has seen major growth.
+
+*git log --oneline*
+b9320b1 (HEAD -> main, secondary/main, secondary/HEAD) Merge pull request #6 from zselman01/docs/project-readme
+f1f0948 (secondary/docs/project-readme) Merge branch 'main' into docs/project-readme
+0ebf4cd Rewording on bottom-line headline sentence (main)
+868c797 Update COLLAB-LOG.md
+4862eda Created README.md instructions and changed wording of bottom-line in report.md
+1a01bd6 Merge pull request #5 from zselman01/chore/tidy-report
+1a7e043 (secondary/chore/tidy-report, chore/tidy-report) Updates to COLLAB-LOG.md to finish Part 2
+74a239f Update COLLAB-LOG.md - added screenshot for Part 2
+c387e78 Update COLLAB-LOG.md for Part 2
+109026f Merge pull request #4 from zselman01/chore/tidy-report
+
+*Q4:* One thing that the PR added to the experience that a bare local git merge did not are line diff comments, a description of the conflict, a way to manually and easily resolve the conflict on GitHub, and leave comments as the author or reviewer.
 
 ## Part 5
 
